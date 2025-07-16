@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "todo-native-app",
-    "slug": "todo-native-app",
+    "name": "task1",
+    "slug": "task1",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
